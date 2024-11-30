@@ -5,6 +5,8 @@ This project provides a SQL-based solution for analyzing and monitoring the perf
 
 ---
 
+# Part 1 - SQL
+
 ## **1. Data Modelling**
 
 ### **1.1 Scope and Context**
