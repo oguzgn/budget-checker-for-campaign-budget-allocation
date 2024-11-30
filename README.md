@@ -63,4 +63,4 @@ This structure enables the identification of campaigns with the highest cost and
 
 ---
 
-This query is designed to streamline performance analysis and budget optimization for marketing campaigns. 🎯
+# Part 2 - Looker 
